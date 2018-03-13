@@ -1,2 +1,4 @@
 # mogul-vue-router-dist
-Vue router packaged for Meteor Mogul
+Vue Router 3.0.1 as a meteor package.
+
+Exports `VueRouter`.
