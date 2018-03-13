@@ -1,6 +1,6 @@
 Package.describe({
   name: 'meteormogul:vue-router-dist',
-  version: '0.0.1',
+  version: '3.0.1',
   // Brief, one-line summary of the package.
   summary: 'Simple packaging of Vue Router for Meteor',
   // URL to the Git repository containing the source code for this package.
